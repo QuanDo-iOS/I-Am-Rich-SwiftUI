@@ -1,1 +1,1 @@
-# I-Am-Rich---SwiftUI
+# I-Am-Rich-SwiftUI
